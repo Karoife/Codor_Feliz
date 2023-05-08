@@ -1,0 +1,6 @@
+4545	Juan	2	Leon	100.0	Pablo
+1515	Neymar	2	Leon	100.0	Pablo
+5555	Pedro	1	Pardo	90.0	Jose
+0666	Fer	1	Mar	85.2	Pedro
+8787	Maria	3	Chan	110.0	Paloma
+1565	Hugo	1	Perro	98.0	Jose
